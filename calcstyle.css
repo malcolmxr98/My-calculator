@@ -23,7 +23,7 @@ body {
     padding: 5px;
     border: none;
     border-radius: 5px;
-    color: white;
+    color: bright green;
 }
 
 .buttons {
@@ -38,7 +38,7 @@ button {
     border: none;
     border-radius: 5px;
     background-color: #444;
-    color: bright green;
+    color: white;
     cursor: pointer;
     transition: background-color 0.2s;
 }
