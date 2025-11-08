@@ -1,3 +1,10 @@
+.back-button {
+  padding: 10px 20px;
+  background-color: #ddd;
+  border-radius: 5px;
+}
+
+
 body {
     display: flex;
     justify-content: center;
@@ -55,5 +62,6 @@ button:hover {
 .equal:hover {
     background-color: #e08900;
 }
+
 
 
